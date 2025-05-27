@@ -1,0 +1,6 @@
+1. Mengikuti semua aturan yang ada
+2. Member tidak boleh main hakim sendiri
+3. Pengguna dengan akun yang tidak online dalam waktu 1 tahun akan di nonaktifkan
+4. Akun yang sudah di nonaktifkan selama 6 bulan akan di hapus
+5. Akun yang sudah di nonaktifkan akan aktif kembali jika online
+
